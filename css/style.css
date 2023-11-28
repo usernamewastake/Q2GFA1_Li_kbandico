@@ -55,6 +55,7 @@ footer{
     position: fixed;
     bottom: 0vw;
     background-color: rgba(64, 64, 64, 0.7);
+    width: 100vw;
 }
 #yt{
     background-position: -439px -221px;
